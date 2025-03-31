@@ -45,7 +45,7 @@ Chain-of-Thought (CoT) prompting instructs the model to generate intermediate re
 - Increases token usage, leading to higher computational costs.
 - Does not fully eliminate hallucinations but improves reliability.
 
-
+---
 Feel free to contribute by sharing insights and improvements!
 
 🚀 Happy Prompting!
